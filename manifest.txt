@@ -1,9 +1,9 @@
 Product=Store 2011
-Version=1.1.2
-Published=2026-10-11
-Notes=Reports print over Tailscale: no Database Login prompt, no file error.
+Version=1.1.3
+Published=2026-10-18
+Notes=Each employee sees only the screens of their section (RBAC). Printing uses the Crystal Reports runtime installed on the PC.
 File=RKLib.ExportData.dll|20480|6e1e15398ee67ee4567f822a0de100e63c414a0f7bd12493575cc78c34463e8f
 File=skincrafter.net-vs2005.dll|876544|dabec47467397f56a3371aa781d1e8173fe782c4b66d92373198ea64d993e664
-File=Store 2011.exe|39129600|45dc76fb5fe1d8d5ec8cc32b1c05de29c1227cac161d45a52319841f7d1bdea3
+File=Store 2011.exe|39152128|c3f15d47f4b7d3239d42cd0b03ce94e9f123045c0cda55987c605624d0f15f2a
 File=Store 2011.exe.config|1978|ed54780cb110554689eca0720243b2b94b16721014fc66d6d780467e95779bec
-File=Store2011Updater.exe|21504|c8f66d12c183eb32f0062471fde49f0aa083e72ae41731111a55d00528c699d5
+File=Store2011Updater.exe|21504|3b4bfdd81ac0edf840518c2fce5faa2c66deeddb025148cb952960fe006a6ce7
