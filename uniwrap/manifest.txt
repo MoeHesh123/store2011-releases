@@ -1,0 +1,9 @@
+Product=Uni Wrap ERP System
+Version=1.2.0
+Published=2026-10-21
+Notes=Every file and folder is now named Uni Wrap ERP System (installed by the 1.2.0 installer).
+File=RKLib.ExportData.dll|20480|6e1e15398ee67ee4567f822a0de100e63c414a0f7bd12493575cc78c34463e8f
+File=skincrafter.net-vs2005.dll|876544|dabec47467397f56a3371aa781d1e8173fe782c4b66d92373198ea64d993e664
+File=Uni Wrap ERP System.exe|36485120|2863377af02b7294ecee08c46d24e8708b76c0338977c39aa1b39d4813346dea
+File=Uni Wrap ERP System.exe.config|1994|feb9dd02a72b36f19b1c3fdd7068d7833b597ded4da8d086958cbfa268275ae2
+File=UniWrapUpdater.exe|173056|af4207ebac356a1159cd4f8bc39aa5b336dd9c17b29eec4791f5c3c4895c565a
