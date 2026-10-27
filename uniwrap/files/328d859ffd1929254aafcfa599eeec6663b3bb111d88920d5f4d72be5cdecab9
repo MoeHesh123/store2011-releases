@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<configuration>
+<configSections>
+</configSections>
+<!-- The settings of this installation (Common/AppSettings.cs, docs/FUTURE_PLANS_AND_CHANGES.md section 8). The defaults
+     below are replaced by updates; "Uni Wrap ERP System.local.config" next to the program (written by the installer, never
+     touched by updates) overrides any of them. -->
+<appSettings file="Uni Wrap ERP System.local.config">
+    <!-- the SQL Server: "." is this PC; the installer writes the development server's Tailscale name, later the hosted server -->
+    <add key="DatabaseServer" value="."/>
+    <!-- the company's data since the clean start; "Old" is the data before it, a testing ground opened only by the
+         logins that have access to it on the server (docs/CURRENT_AND_OLD.md) -->
+    <add key="DatabaseName" value="Current"/>
+    <add key="OldDatabaseName" value="Old"/>
+    <!-- true on a private network or Tailscale; false (with a real certificate) for a server on the internet -->
+    <add key="TrustServerCertificate" value="true"/>
+    <!-- where updates are published; empty = no update check (developers' builds) - the installer sets it -->
+    <add key="UpdateUrl" value=""/>
+</appSettings>
+<connectionStrings>
+    <add name="UniWrap.Properties.Settings.StoreConnectionString" connectionString="Data Source=.;Initial Catalog=Store;Integrated Security=True" providerName="System.Data.SqlClient"/>
+</connectionStrings>
+<startup useLegacyV2RuntimeActivationPolicy="true"><supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.8"/></startup>	<runtime>
+		<assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+			<dependentAssembly>
+				<assemblyIdentity name="System.Web.Services" publicKeyToken="B03F5F7F11D50A3A" culture="neutral"/>
+				<bindingRedirect oldVersion="0.0.0.0-4.0.0.0" newVersion="4.0.0.0"/>
+			</dependentAssembly>
+			<!-- No redirect for the Crystal Reports assemblies (referenced as 13.0.2000.0): Classes\CrystalBinding.cs
+			     loads the runtime that is installed - 13.0.4000.0 (SP30 and later) or 13.0.3500.0 (SP21-SP29).
+			     A redirect here would force one version and make the other unusable. -->
+		</assemblyBinding>
+	</runtime>
+</configuration>
