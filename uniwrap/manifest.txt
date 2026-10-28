@@ -1,9 +1,9 @@
 Product=Uni Wrap ERP System
-Version=1.2.1
-Published=2026-10-27
-Notes=A clean start: the current data in a new, empty database; the old data kept as a testing ground.
+Version=1.2.2
+Published=2026-10-28
+Notes=Dates work whatever the PC's date format (the job lists failed after a job made on a day-first PC); Outsourced Pending Orders no longer freezes on the old data; large lists open faster; PI currencies LE / L.E counted as Le.
 File=RKLib.ExportData.dll|20480|6e1e15398ee67ee4567f822a0de100e63c414a0f7bd12493575cc78c34463e8f
 File=skincrafter.net-vs2005.dll|876544|dabec47467397f56a3371aa781d1e8173fe782c4b66d92373198ea64d993e664
-File=Uni Wrap ERP System.exe|36489728|63a35a14ff4487c8c7178cdc4cf68fd473dc07fdaef3ce84de71c7b07c91ce46
+File=Uni Wrap ERP System.exe|36490752|4fbae960f570ab9633c40f467a8fc454397333d89205590017f014b88f21ab15
 File=Uni Wrap ERP System.exe.config|2243|328d859ffd1929254aafcfa599eeec6663b3bb111d88920d5f4d72be5cdecab9
-File=UniWrapUpdater.exe|173056|2fd6a25798566d426edaf2ea0103ab69536094594971cf1884547e55135f5289
+File=UniWrapUpdater.exe|173056|6da9a5ccba560e9915377740e16e81b55744f0142d87ed5b6d02561c976a212a
