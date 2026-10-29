@@ -1,9 +1,9 @@
 Product=Uni Wrap ERP System
-Version=1.2.3
-Published=2026-10-28
-Notes=Sharp Uni Wrap logo on the printed reports (it was blurred).
+Version=1.2.4
+Published=2026-10-29
+Notes=The screens follow the names of your lists: renamed types, kinds and sections (Row Materials, one Thermal ...) work everywhere, and a rename made in the program is followed by its rules. Suppliers Data: the Category box follows the Type box. Employees: Amend keeps the employee's section.
 File=RKLib.ExportData.dll|20480|6e1e15398ee67ee4567f822a0de100e63c414a0f7bd12493575cc78c34463e8f
 File=skincrafter.net-vs2005.dll|876544|dabec47467397f56a3371aa781d1e8173fe782c4b66d92373198ea64d993e664
-File=Uni Wrap ERP System.exe|39767552|bf216b1c1b1654d4782a9c45a80f0c60c0d98c1c79d4d8fff42609a57d12975f
+File=Uni Wrap ERP System.exe|39768064|1c541c09a722a846b463727d384e2067acf105af647881fbd2d8f4d82ba0692a
 File=Uni Wrap ERP System.exe.config|2243|328d859ffd1929254aafcfa599eeec6663b3bb111d88920d5f4d72be5cdecab9
-File=UniWrapUpdater.exe|173056|4cba5e96ac4675d7fe794084bc8c35f2966043c868baaf36de871579b8e1f9b7
+File=UniWrapUpdater.exe|173056|d06f463a3a9ca27f34e8a9b6048e88ea9ec81022bf916cbe3ba439a4de3b1603
