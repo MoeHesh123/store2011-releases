@@ -1,9 +1,9 @@
 Product=Uni Wrap ERP System
-Version=1.2.5
+Version=1.2.6
 Published=2026-10-30
-Notes=Reports > By Suppliers > By Materials Suppliers lists the supplier's purchase requests (it was always empty). Purchasing Status shows Amount = quantity needed x expected price (it was always 0).
+Notes=Database > Equipment is now called Supplies. The sign-in window shows the Uni Wrap logo.
 File=RKLib.ExportData.dll|20480|6e1e15398ee67ee4567f822a0de100e63c414a0f7bd12493575cc78c34463e8f
 File=skincrafter.net-vs2005.dll|876544|dabec47467397f56a3371aa781d1e8173fe782c4b66d92373198ea64d993e664
-File=Uni Wrap ERP System.exe|39767552|8ca06e8fdb8346edbf150870c6a5f0c693125e7317f5a74916598ede0a12157e
+File=Uni Wrap ERP System.exe|39684608|8afeb793d3570feb262dbaa671ece5d1db2ef38d5e44c3accace1920831121d9
 File=Uni Wrap ERP System.exe.config|2243|328d859ffd1929254aafcfa599eeec6663b3bb111d88920d5f4d72be5cdecab9
-File=UniWrapUpdater.exe|173056|d4c77f9597ba0cc0d1084fc482d492468315acfd3911044b5fc7505e7c7560d2
+File=UniWrapUpdater.exe|173056|50413f41ef8d4830564f56e2ac4185c23973258adcd1246a0bfdfe6a711ce7a5
