@@ -1,7 +1,7 @@
 Product=Uni Wrap ERP System
 Version=1.2.7
 Published=2026-11-04
-Notes=New: Database > Currencies and Database > Units. Drop-downs are chosen from, not typed in; a * marks the fields that must be filled. Purchasing Order takes the expected price and shows Received / Difference; Stock In receives every type and marks a request Arrived. Handling Purchasing, Supplies and Suppliers Data are removed. A clearer purchase order printout.
+Notes=
 File=RKLib.ExportData.dll|20480|6e1e15398ee67ee4567f822a0de100e63c414a0f7bd12493575cc78c34463e8f
 File=skincrafter.net-vs2005.dll|876544|dabec47467397f56a3371aa781d1e8173fe782c4b66d92373198ea64d993e664
 File=Uni Wrap ERP System.exe|38374400|7aafa2148e426296497651d7021ceb4034bf6c232ab8b868837663efeaeaf5c5
