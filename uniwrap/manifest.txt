@@ -1,9 +1,9 @@
 Product=Uni Wrap ERP System
-Version=1.2.6
-Published=2026-10-30
-Notes=Database > Equipment is now called Supplies. The sign-in window shows the Uni Wrap logo.
+Version=1.2.7
+Published=2026-11-04
+Notes=New: Database > Currencies and Database > Units. Drop-downs are chosen from, not typed in; a * marks the fields that must be filled. Purchasing Order takes the expected price and shows Received / Difference; Stock In receives every type and marks a request Arrived. Handling Purchasing, Supplies and Suppliers Data are removed. A clearer purchase order printout.
 File=RKLib.ExportData.dll|20480|6e1e15398ee67ee4567f822a0de100e63c414a0f7bd12493575cc78c34463e8f
 File=skincrafter.net-vs2005.dll|876544|dabec47467397f56a3371aa781d1e8173fe782c4b66d92373198ea64d993e664
-File=Uni Wrap ERP System.exe|39684608|8afeb793d3570feb262dbaa671ece5d1db2ef38d5e44c3accace1920831121d9
+File=Uni Wrap ERP System.exe|38374400|7aafa2148e426296497651d7021ceb4034bf6c232ab8b868837663efeaeaf5c5
 File=Uni Wrap ERP System.exe.config|2243|328d859ffd1929254aafcfa599eeec6663b3bb111d88920d5f4d72be5cdecab9
-File=UniWrapUpdater.exe|173056|50413f41ef8d4830564f56e2ac4185c23973258adcd1246a0bfdfe6a711ce7a5
+File=UniWrapUpdater.exe|173056|2c0c190a576e2ea8d8393e02078e5db2fb5aa68f9a3f6dab90dcdbc2dcd2b346
