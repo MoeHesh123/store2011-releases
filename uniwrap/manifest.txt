@@ -1,9 +1,9 @@
 Product=Uni Wrap ERP System
-Version=1.2.11
+Version=1.2.12
 Published=2026-11-10
 Notes=
 File=RKLib.ExportData.dll|20480|6e1e15398ee67ee4567f822a0de100e63c414a0f7bd12493575cc78c34463e8f
 File=skincrafter.net-vs2005.dll|876544|dabec47467397f56a3371aa781d1e8173fe782c4b66d92373198ea64d993e664
-File=Uni Wrap ERP System.exe|20830208|4e5090b15e22ea5714976d0d9c11c900436d2e19165b1419c4bc5e9b26ff9adf
+File=Uni Wrap ERP System.exe|20829696|7533324f99918c5e600dd72a5465cdfc76d67752c845956538f228bfc69e9fe6
 File=Uni Wrap ERP System.exe.config|2243|328d859ffd1929254aafcfa599eeec6663b3bb111d88920d5f4d72be5cdecab9
-File=UniWrapUpdater.exe|173056|2180dedec82871ba07c532c0534e1f00a6431d08d5836a1dedabdb223f2f2170
+File=UniWrapUpdater.exe|173056|545a0fe98fbd2a31f5fa384421c7d481542e9bbcc66499daed2073c7d8929809
